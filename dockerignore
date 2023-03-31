@@ -1,0 +1,9 @@
+.github
+node_modules
+fist
+.editorconfig
+.gitignore
+.prettierrc
+README.md
+package-lock.json
+server/package-lock.json
